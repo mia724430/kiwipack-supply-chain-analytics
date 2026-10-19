@@ -1,0 +1,31 @@
+ItemCode,Description,ItemGroup,BaseUoM,StdCost,PrefVendor,LeadTimeDays,SafetyStock,ReorderPoint,MOQ,ItemStatus
+RM-1001,Cupstock Paperboard 210gsm,PB,KG,2.1,V1001,35,6416,27416,5000,Active
+RM-1002,Cupstock Paperboard 280gsm,PB,KG,2.35,V1001,35,7842,33509,5000,Active
+RM-1003,Cupstock Paperboard 320gsm,PB,KG,2.6,V1001,35,3208,13708,3000,Active
+RM-1004,Cupstock Paperboard 280gsm (NZ),PB,KG,2.55,V1002,7,1116,2750,1000,Active
+RM-1005,Carton Board 400gsm,PB,KG,2.45,V1002,7,957,2357,1000,Active
+RM-1006,PE Coating Resin (LDPE),CT,KG,3.8,V1003,14,947,2907,1000,Active
+RM-1007,PE Coating Resin (HDPE),CT,KG,4.1,V1003,14,406,1246,500,Active
+RM-1008,Aqueous Barrier Coating,CT,KG,6.5,V1003,14,203,623,200,Active
+RM-1009,Water-based Ink Black,INK,KG,14.0,V1004,7,52,127,50,Active
+RM-1010,Water-based Ink Cyan,INK,KG,16.5,V1004,7,29,71,50,Active
+RM-1011,Water-based Ink Magenta,INK,KG,16.5,V1004,7,28,68,50,Active
+RM-1012,Water-based Ink Yellow,INK,KG,15.8,V1004,7,26,64,50,Active
+RM-1013,Water-based Ink White,INK,KG,12.4,V1004,7,42,103,50,Active
+RM-1014,PS Lid 80mm White,LID,EA,0.028,V1005,35,320797,1370797,200000,Active
+RM-1015,PS Lid 90mm White,LID,EA,0.032,V1005,35,392085,1675419,200000,Active
+RM-1016,PS Lid 90mm Black,LID,EA,0.034,V1005,35,213865,913865,200000,Active
+RM-1017,Fibre Lid 80mm,LID,EA,0.065,V1006,7,47822,117822,50000,Active
+RM-1018,Fibre Lid 90mm,LID,EA,0.072,V1006,7,60574,149241,50000,Active
+RM-1019,PS Sip Lid 80mm Clear (legacy),LID,EA,0.045,V1005,35,53467,228467,100000,Discontinued
+RM-1020,PS Sip Lid 90mm Clear (legacy),LID,EA,0.048,V1005,35,64160,274160,100000,Discontinued
+RM-1021,Dome Lid 95mm (legacy),LID,EA,0.06,V1006,7,14347,35347,50000,Discontinued
+RM-1022,Flat Lid 95mm Printed (legacy),LID,EA,0.075,V1006,7,11159,27493,50000,Discontinued
+RM-1023,Cup Sleeve Kraft 8-12oz,PKG,EA,0.04,V1008,14,56359,173026,50000,Active
+RM-1024,Cup Sleeve Kraft 16oz,PKG,EA,0.046,V1008,14,33815,103815,50000,Active
+RM-1025,Outer Carton 1000-cup,PKG,EA,1.2,V1007,7,829,2043,1000,Active
+RM-1026,Outer Carton 500-cup,PKG,EA,0.85,V1007,7,606,1493,1000,Active
+RM-1027,Polybag Inner Sleeve,PKG,EA,0.012,V1007,7,19129,47129,50000,Active
+RM-1028,Stretch Wrap 500mm,PKG,ROLL,18.0,V1007,7,23,56,20,Active
+RM-1029,Pallet Label Roll,PKG,ROLL,22.0,V1007,7,10,24,10,Active
+RM-1030,Corner Board 50mm,PKG,EA,0.55,V1007,7,383,943,500,Active

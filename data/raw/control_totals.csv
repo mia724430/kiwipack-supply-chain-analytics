@@ -1,0 +1,9 @@
+Check,Expected value
+PO lines (after removing duplicates),670
+Distinct PO numbers,623
+Total PO line amount NZD (after removing duplicates),6380468.13
+Goods receipt lines,678
+Goods receipt lines with a rejection,583
+"Stock value at std cost, period 202606 (NZD)",201932.36
+"Consumption value at std cost, all periods (NZD)",6702344.22
+Total budget NZD,6756790
